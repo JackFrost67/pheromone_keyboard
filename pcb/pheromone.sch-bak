@@ -3227,7 +3227,7 @@ Wire Wire Line
 	13950 1500 13950 3800
 Wire Wire Line
 	13300 1200 13050 1200
-Text GLabel 14800 1900 2    50   Output ~ 0
+Text GLabel 14800 1900 2    50   Input ~ 0
 D+
 $Comp
 L Device:D_Zener D64
@@ -3442,6 +3442,6 @@ Text GLabel 2650 1350 0    50   Input ~ 0
 D-
 Text GLabel 2650 1450 0    50   Input ~ 0
 D+
-Text GLabel 14800 1800 2    50   Output ~ 0
+Text GLabel 14800 1800 2    50   Input ~ 0
 D-
 $EndSCHEMATC
